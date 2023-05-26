@@ -47,4 +47,27 @@ W3School, ``Php tutorial,'' N/A. [Online]. Available:
   \url{https://www.w3schools.com/php/php_math.asp}
 \BIBentrySTDinterwordspacing
 
+\bibitem{Ryadel}
+D.~Pham, ``Php - strengths and weaknesses,'' June 2020, see
+  \url{https://www.ryadel.com/en/php-programming-language-strengths-weaknesses/}.
+
+\bibitem{Journal}
+A.~Kaushal, ``What are the main weaknesses of php as a programming language,''
+  2021, see
+  \url{https://vocal.media/journal/what-are-the-main-weaknesses-of-php-as-a-programming-language}.
+
+\bibitem{Vs}
+Vinugayathri, ``Php vs javascript: The right tech for your next big project,''
+  see
+  \url{https://www.clariontech.com/blog/php-vs-javascript-the-right-option-for-your-next-big-project#:~:text=PHP%20runs%20on%20the%20server,and%20manipulating%20web%20page%20content}.
+
+\bibitem{W32}
+W.~school, ``https://www.w3schools.com/nodejs/nodejs_intro.asp,'' W3 School,
+  see \url{https://www.w3schools.com/nodejs/nodejs_intro.asp}.
+
+\bibitem{Django}
+mdn web, ``Django introduction django introduction django introduction,'' mdn
+  web docs, see
+  \url{https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction}.
+
 \end{thebibliography}
